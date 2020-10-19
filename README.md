@@ -1,0 +1,1 @@
+# goit-hw6-js
